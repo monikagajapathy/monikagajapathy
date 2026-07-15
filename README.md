@@ -1,104 +1,60 @@
-<h1 align="center">
-Hi 👋 I'm Monika Gajapathy
-</h1>
+<!-- ========================= -->
+<!--       PROFILE HEADER      -->
+<!-- ========================= -->
+
+<h1 align="center">Hi 👋, I'm Monika Gajapathy</h1>
+
+<h3 align="center">
+🚀 AI Student | Full Stack Developer | Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Student;ML+Developer;Web+Developer;Open+Source+Learner;Always+Learning+Something+New+🚀">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;React+Developer;Python+Developer;Always+Learning+New+Things!" />
 </p>
 
 ---
 
-<table>
+# 💫 About Me
 
-<tr>
+🎓 3rd Year B.Tech Artificial Intelligence Student
 
-<td width="55%">
+💻 Passionate about AI, Web Development and Open Source
 
-```python
-# -*- coding: utf-8 -*-
+🤖 Interested in Machine Learning, Deep Learning and Computer Vision
 
-class Developer:
+🌱 Currently Learning
 
-    def __init__(self):
+- React
+- Node.js
+- TensorFlow
+- Express
+- MongoDB
 
-        self.name="Monika Gajapathy"
+🚀 Working on
 
-        self.role="AI Student"
+- AI Projects
+- Full Stack Web Applications
+- Open Source
 
-        self.learning=True
+🎯 Goal
 
-        self.languages=[
-            "Python",
-            "Java",
-            "JavaScript"
-        ]
-
-        self.web=[
-            "HTML",
-            "CSS",
-            "React",
-            "Node"
-        ]
-
-        self.ml=[
-            "TensorFlow",
-            "OpenCV",
-            "Pandas",
-            "NumPy"
-        ]
-
-        self.tools=[
-            "Git",
-            "GitHub",
-            "VS Code",
-            "MySQL"
-        ]
-
-        self.goal="Become AI Engineer"
-
-developer=Developer()
-
-print("Welcome to my GitHub")
-```
-
-</td>
-
-<td width="45%">
-
-PASTE YOUR ASCII PORTRAIT HERE
-
-</td>
-
-</tr>
-
-</table>
+Become an AI Engineer & Full Stack Developer
 
 ---
 
-# 🚀 About Me
+# 🌐 Connect With Me
 
-- 🎓 3rd Year B.Tech AI Student
+<p align="left">
 
-- 💻 Web Developer
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-- 🤖 AI / ML Enthusiast
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-- 🌱 Currently Learning
-
-```
-React
-TensorFlow
-NodeJS
-System Design
-```
-
-- 📫 Reach Me
-
-```
-monikagajapathy@gmail.com
-```
+</p>
 
 ---
 
@@ -106,29 +62,122 @@ monikagajapathy@gmail.com
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,mysql,git,github,vscode,tensorflow,opencv,linux"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monikagajapathy&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monikagajapathy&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikagajapathy&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Handwritten Character Recognition
+
+Deep Learning model using TensorFlow and CNN to recognize handwritten alphabets.
+
+---
+
+## 🎓 InternSphere LMS
+
+A modern Learning Management System with
+
+- Dashboard
+- Analytics
+- Certificate Generation
+- Responsive UI
+
+---
+
+## 🎬 Movie Recommendation System
+
+Recommendation engine using Machine Learning.
+
+---
+
+## 🌐 Portfolio Website
+
+Personal Portfolio built using React.
+
+---
+
+# 📚 Currently Learning
+
+✔ Full Stack Development
+
+✔ TensorFlow
+
+✔ React
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Node.js
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
@@ -136,24 +185,46 @@ monikagajapathy@gmail.com
 
 # 🐍 Contribution Snake
 
+> **This image will work after you set up the GitHub Action.**
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/monikagajapathy/monikagajapathy/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 👀 Visitors
+# ✍️ Dev Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=monikagajapathy&style=for-the-badge">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ❤️ Quote
+# 👀 Visitor Counter
 
-> Code. Learn. Build. Repeat.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C896&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+"There is always a better algorithm."
+```
+
+---
+
+<h3 align="center">
+
+⭐ Thank you for visiting my profile ⭐
+
+</h3>
